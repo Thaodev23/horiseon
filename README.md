@@ -28,7 +28,7 @@ Be helpful in a variety and flexible ways
 
 ## Image of the webpage
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/images/screenshot.png)
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/images/screenshot.png)
 
 Image: This image is a representation of business employee collaborating together. 
 
