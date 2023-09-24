@@ -2,6 +2,7 @@
 
 https://thaodev23.github.io/horiseon/
 
+https://github.com/Thaodev23/horiseon
 
 * **User Story**: The Horiseon webpage is a webpage intended for the employee working in the business/marketing industry to navigate through helpful information on the web. Business/marketing employee can receive a lot of helpful information that can enhance their careers. These information on the webpage can also be useful for solving many real-world business/marketing problems also. 
 
@@ -30,7 +31,7 @@ Be helpful in a variety and flexible ways
 
 ![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/images/screenshot.png)
 
-Image: This image is a representation of business employee collaborating together. 
+Image: This image is a representation of business employee collaborating together. Link to image: https://thaodev23.github.io/horiseon/
 
 ## Collaborators
 
