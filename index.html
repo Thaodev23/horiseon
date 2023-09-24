@@ -1,4 +1,10 @@
+<!-- Author: Joey Thao
+     Collaborators: Jason Yang, Sichoun Lee
+     Date: 9/23/2023
+     Description: Horiseon business marketing webpage. Horiseon is a business that provide SEO services for social media marketing-->
+
 <!DOCTYPE html>
+<!-- deleting the "en-us" in the lang= does not change the language or do anything to the language in the web browser-->
 <html lang="en-us">
 
 <head>
@@ -10,6 +16,7 @@
 <body>
     <header class="header">
         <h1>Hori<span class="seo">seo</span>n</h1>
+        <!-- the nav tag breaks the webpage when you put in the brc tag -->
         <nav>
             <ul>
                 <li>
@@ -26,6 +33,7 @@
     </header>
     <div class="hero"></div>
     <main class="content">
+        <!-- putting an id in front of the search also navigation search on the webpage so if you delete it then navigation search won't work -->
         <section id="search-engine-optimization" class="search-engine-optimization">
             <img src="./assets/images/search-engine-optimization.jpg" alt="notebook, laptop and colorful pencils." class="float-left" />
             <h2>Search Engine Optimization</h2>
@@ -59,6 +67,7 @@
         </section>
         <section class="benefit-brand">
             <h3>Brand Awareness</h3>
+            <!-- alt tag always have to come after the img tag even if the image on the webpage is only a small icon -->
             <img src="./assets/images/brand-awareness.png" alt="blinking light bulb on top of a suit and 
             tie." />
             <p>
