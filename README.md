@@ -29,13 +29,13 @@ Be helpful in a variety and flexible ways
 
 ## Image of the webpage
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/images/screenshot.png)
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](https://github.com/Thaodev23/horiseon/assets/143896750/6e6c8cfa-ed5f-4d31-9497-9930cd4cf8af)
 
 Image: This image is a representation of business employee collaborating together. Link to image: https://thaodev23.github.io/horiseon/
 
 ## Collaborators
 
-```
+
 Jason Yang:
 Github profile - https://github.com/Jasony95
 Classmate that collaborated on the homework assignment together.
